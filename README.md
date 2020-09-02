@@ -40,3 +40,10 @@ $ npm start
 ```
 
 Your app should now be running on [localhost:8080](localhost:8080).
+
+# Preview
+
+<p align="center">
+  <img src="./img/vue_login.PNG">
+  <img src="./img/vue_chart.PNG">
+</p>
